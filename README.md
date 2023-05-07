@@ -1,1 +1,1 @@
-# Seahorse Instagram
+# Solana Social
